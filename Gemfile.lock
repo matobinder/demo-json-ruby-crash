@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    json (2.12.0)
+
+PLATFORMS
+  ruby
+  x86_64-linux
+
+DEPENDENCIES
+  json
+
+RUBY VERSION
+   ruby 3.4.4p34
+
+BUNDLED WITH
+   2.6.7
